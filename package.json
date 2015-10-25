@@ -1,0 +1,42 @@
+{
+  "name": "fis3-ms",
+  "version": "0.1.1",
+  "description": "ms前端集成解决方案",
+  "main": "index.js",
+  "bin": {
+    "fis3-ms": "ms.js"
+  },
+  "dependencies": {
+    "fis-parser-less-2.x": "^0.1.4",
+    "fis-parser-less": "^0.1.3",
+    "fis3-hook-module": "^1.2.2",
+    "fis3": "^3.2.0",
+    "fis3-parser-babel": "^1.0.12",
+    "fis3-parser-cssnext": "^1.0.0",
+    "fis3-postpackager-loader": "^1.3.2",
+    "liftoff": "^2.2.0",
+    "ms-command-project": "^0.0.4",
+    "ms-command-widget": "^0.0.1",
+    "minimist": "^1.2.0",
+    "ms-parser-translate-widget": "^0.0.1",
+    "ms-postprocessor-format": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lys623/fis3-ms.git"
+  },
+  "keywords": [
+    "ms",
+    "miaoshou"
+  ],
+  "author": "61xing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lys623/fis3-ms/issues"
+  },
+  "homepage": "https://github.com/lys623/fis3-ms#readme"
+}
